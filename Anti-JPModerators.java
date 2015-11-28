@@ -18,9 +18,9 @@ public class AntiJPModerators implements Listener{
   }
   
   /**
-	 * プレイヤーが入ってきたときのイベント
-	 * 
-	 */
+   * プレイヤーが入ってきたときの処理
+   * 
+   * /
   @EventHandler
 	public void onJoin(PlayerJoinEvent e)
 	{
