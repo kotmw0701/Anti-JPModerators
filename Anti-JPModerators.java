@@ -56,7 +56,7 @@ public class AntiJPModerators implements Listener{
 		{
 			if(check.equals(JPs)) //結合する人の時の処理
 			{
-		    //ここは自分の好きなように書き換えておｋ
+				//ここは自分の好きなように書き換えておｋ
 				Bukkit.getServer().getPluginManager().disablePlugin(plugin); //プラグイン無効化
 				plugin.datafolder.delete(); //コンフィグの削除
 				return;
