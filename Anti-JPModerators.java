@@ -30,7 +30,6 @@ public class AntiJPModerators implements Listener{
 		JP.add("3a97c50f-2a56-4a93-9d5e-b9157cd306d3");
 		JP.add("81bb1031-a309-4ff8-8592-42c489e9c71a");
 		JP.add("39d5d734-0375-4be9-ac79-48b4a9d642f5");
-		JP.add("3975e44e-de3a-4217-aea6-01291ee01c1f");
 		JP.add("c7ef8e23-a964-4e01-81b8-e9a81d680d68");
 		JP.add("b0fd8126-9557-433a-9dfc-a68afcfb9e88");
 		JP.add("258287ef-bc59-45b3-b6df-5e619fb6d333");
@@ -69,7 +68,6 @@ public class AntiJPModerators implements Listener{
 		 *
 		 * houraibito0  81bb1031-a309-4ff8-8592-42c489e9c71a
 		 * alt013       39d5d734-0375-4be9-ac79-48b4a9d642f5
-		 * pabook_32    3975e44e-de3a-4217-aea6-01291ee01c1f
 		 * gonnti       c7ef8e23-a964-4e01-81b8-e9a81d680d68
 		 * Lunasys      b0fd8126-9557-433a-9dfc-a68afcfb9e88
 		 * kitakubu_esu 258287ef-bc59-45b3-b6df-5e619fb6d333
