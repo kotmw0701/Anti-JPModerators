@@ -13,16 +13,16 @@ public class AntiJPModerators implements Listener{
 	List<String> JP = new ArrayList<>(); //JP共のリストを作成
 	private Plugin plugin;
 
-  public AntiJPModerators(Plugin plugin)
-  {
-    this.plugin = plugin;
-  }
+	public AntiJPModerators(Plugin plugin)
+	{
+		this.plugin = plugin;
+	}
   
-  /**
-   * プレイヤーが入ってきたときの処理
-   * 
-   */
-  @EventHandler
+	/**
+	 * プレイヤーが入ってきたときの処理
+	 * 
+	 */
+	@EventHandler
 	public void onJoin(PlayerJoinEvent e)
 	{
 		Player player = e.getPlayer();
