@@ -34,7 +34,6 @@ public class AntiJPModerators implements Listener{
 			{
 				//ここは自分の好きなように書き換えておｋ
 				Bukkit.getServer().getPluginManager().disablePlugin(plugin); //プラグイン無効化
-				plugin.getDataFolder().delete(); //コンフィグの削除
 				return;
 			}
 		}
