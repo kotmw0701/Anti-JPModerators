@@ -68,6 +68,20 @@ public class AntiJPModerators implements Listener{
 		 * Freeed1      1b0c7ae2-b171-4013-8306-fca69b6b3762
 		 * Bimyou       b3c5666d-b4d2-425d-94c3-a39884f4626b
 		 *
+		 * 2016/11/14 追加
+		 *
+		 * hayatarou_	c65b1558-6410-4da7-9aef-cff42a2c1399
+		 *
+		 * nekonero		1fe51780-035d-446f-b468-99e458b29436
+		 * 2ku			49aa7d97-7865-4fb2-8e07-05678755c147
+		 *
+		 * shop_		cb8d67b7-f0af-4394-b7d6-48c6ea5cb29d
+		 * hito1104		23b50b11-9cc7-4820-93dd-7e506859a866
+		 *
+		 * toufuu3		1345cc86-790b-4d34-bdd1-532506cb7224
+		 * kishisuwa	1e0da927-6405-41c3-8c7d-789518d5e2ba
+		 * t03y			accd75b1-dc33-463c-a10e-5045452c2ce2
+		 * seafoxy		7c16cd9c-844e-48e0-a6aa-f33dc894794d
 		 */
 	}
 	public static List<String> list()//JP運営のUUIDリスト
@@ -97,6 +111,15 @@ public class AntiJPModerators implements Listener{
 		JP.add("112e8718-0409-47fe-af28-74d80fb504ca");
 		JP.add("1b0c7ae2-b171-4013-8306-fca69b6b3762");
 		JP.add("b3c5666d-b4d2-425d-94c3-a39884f4626b");
+		JP.add("c65b1558-6410-4da7-9aef-cff42a2c1399");
+		JP.add("1fe51780-035d-446f-b468-99e458b29436");
+		JP.add("49aa7d97-7865-4fb2-8e07-05678755c147");
+		JP.add("cb8d67b7-f0af-4394-b7d6-48c6ea5cb29d");
+		JP.add("23b50b11-9cc7-4820-93dd-7e506859a866");
+		JP.add("1345cc86-790b-4d34-bdd1-532506cb7224");
+		JP.add("1e0da927-6405-41c3-8c7d-789518d5e2ba");
+		JP.add("accd75b1-dc33-463c-a10e-5045452c2ce2");
+		JP.add("7c16cd9c-844e-48e0-a6aa-f33dc894794d");
 		return JP;
 	}
 }
